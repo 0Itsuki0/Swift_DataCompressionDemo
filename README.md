@@ -1,2 +1,11 @@
 # Swift_DataCompressionDemo
-Data Compression with compression framework. Using Buffer, Streaming, From File, From Data.
+
+A demo of performing Data Compression with [Compression](https://developer.apple.com/documentation/compression) framework. 
+
+- Buffer compression
+- Stream compression with InputFilter and OutputFilter
+  - Directly From Data
+  - From File using file handler
+
+
+![](./demo.png)
