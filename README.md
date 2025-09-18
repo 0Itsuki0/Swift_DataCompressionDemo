@@ -7,6 +7,8 @@ A demo of performing Data Compression with [Compression](https://developer.apple
   - Directly From Data
   - From File using file handler
 
+For more details, please check out my blog: [Swift: Data Compression With Compression Framework](https://medium.com/@itsuki.enjoy/swift-data-compression-with-compression-framework-3bac1409f5fd)
+
 ## Basic Usage
 ### Buffer
 ```
